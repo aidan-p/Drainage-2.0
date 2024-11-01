@@ -96,19 +96,6 @@
      <string>Load:</string>
     </property>
    </widget>
-   <widget class="QLabel" name="label">
-    <property name="geometry">
-     <rect>
-      <x>11</x>
-      <y>11</y>
-      <width>73</width>
-      <height>19</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>DRAINAGE</string>
-    </property>
-   </widget>
    <widget class="QRadioButton" name="loadHigh">
     <property name="geometry">
      <rect>
